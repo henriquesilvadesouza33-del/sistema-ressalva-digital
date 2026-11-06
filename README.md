@@ -1,3 +1,7 @@
+<img width="1363" height="722" alt="image" src="https://github.com/user-attachments/assets/88bb8ea0-dc5d-4799-a487-777a734588d3" />
+
+<img width="1350" height="708" alt="image" src="https://github.com/user-attachments/assets/aa3169fb-2e30-4834-a4ed-a8c5376df5e4" />
+
 # sistema-ressalva-digital
 Sistema para informatização de ressalvas digitais (FUNAP/GDF), utilizando OCR para leitura de documentos e geração de certificados em PDF.
 
